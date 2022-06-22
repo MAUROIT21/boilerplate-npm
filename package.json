@@ -1,8 +1,18 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mauro Som",
+	"description": "Mi primer proyecto de aprendizaje en Fcc de Back End Apis",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"npm",
+		"backeendapis"
+	],
+	"license": "MIT-Test",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.0"
 	},
 	"main": "server.js",
 	"scripts": {
